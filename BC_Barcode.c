@@ -47,7 +47,7 @@
 
 #define DELTA_BUFFER_SIZE               		((tUINT16) 170)
 
-#define SCAN_SIZE                  				((tINT16) 8192)		//Samples per document.
+//#define SCAN_SIZE                  				((tINT16) 8192)		//Samples per document.
 
 #define AGC_ELEMENT_COUNT             			((tUINT16) 6)		//Left or right of center.
 
